@@ -1,0 +1,28 @@
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\bin\Debug\RSA.exe.config
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\bin\Debug\RSA.exe
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\bin\Debug\RSA.pdb
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.BigIntegerUC.resources
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.Bonuslvl2UC.resources
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.Main.resources
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.RSAUC.resources
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.exe
+c:\users\desktop\documents\visual studio 2015\Projects\RSA\RSA\obj\Debug\RSA.pdb
+E:\RSA\RSA\RSA\bin\Debug\RSA.exe.config
+E:\RSA\RSA\RSA\bin\Debug\RSA.exe
+E:\RSA\RSA\RSA\bin\Debug\RSA.pdb
+E:\RSA\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+E:\RSA\RSA\RSA\obj\Debug\RSA.BigIntegerUC.resources
+E:\RSA\RSA\RSA\obj\Debug\RSA.Bonuslvl2UC.resources
+E:\RSA\RSA\RSA\obj\Debug\RSA.Main.resources
+E:\RSA\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+E:\RSA\RSA\RSA\obj\Debug\RSA.RSAUC.resources
+E:\RSA\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+E:\RSA\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+E:\RSA\RSA\RSA\obj\Debug\RSA.exe
+E:\RSA\RSA\RSA\obj\Debug\RSA.pdb
+E:\third year project\algo\last version\RSA\RSA\bin\Debug\RSA.exe.config
+E:\third year project\algo\last version\RSA\RSA\obj\Debug\RSA.exe
+E:\third year project\algo\last version\RSA\RSA\obj\Debug\RSA.pdb
